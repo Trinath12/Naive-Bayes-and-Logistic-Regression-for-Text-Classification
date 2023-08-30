@@ -12,7 +12,7 @@ from sklearn import metrics.\
 from random import shuffle.\
 Import sys.\
 from sklearn.linear_model import SGDClassifier.\
-from sklearn.model_selection import GridSearchCV.\
+from sklearn.model_selection import GridSearchCV.
 ## Implementation:
 ### Multinomial Naive Bayes:
 Run the .py file Multinomial_NB, enter the dataset name as it prompts and the bag of words model is used as the default. The program outputs evaluation metrics and a confusion matrix.
