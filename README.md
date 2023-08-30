@@ -1,5 +1,5 @@
 ## Required modules:
-from pathlib import Path.
+from pathlib import Path./
 import os.
 import re.
 from collections import Counter.
